@@ -1,0 +1,23 @@
+{
+  "name": "chandu-addition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandra821/chandu-addition.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandra821/chandu-addition/issues"
+  },
+  "homepage": "https://github.com/chandra821/chandu-addition#readme",
+  "publishConfig": {
+    "@chandu2541:registery":"https://npm.pkg.github.com"
+  }
+}
